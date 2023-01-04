@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
 			</Head>
 			<section className={utilStyles.headingMd}>
 				<p>
-					I am Stanley Cheung, an up-and-coming full-stack software engineer.
+					I am Stanley Grind, an up-and-coming full-stack software engineer.
 				</p>
 				<p>This site was built from the official Next.js tutorial.</p>
 			</section>
